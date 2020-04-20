@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe4450b8d0f10fe5e00d412f91e986cc",
+    "revision": "8e807e8de5103d467803603566e12d8d",
     "url": "/mika-yan/genocide1915/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mika-yan/genocide1915/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "2c931c04f5e7136c414b",
+    "revision": "1254dca2bc9b998b3955",
     "url": "/mika-yan/genocide1915/static/css/main.981f7211.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mika-yan/genocide1915/static/js/2.41ddd236.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c931c04f5e7136c414b",
-    "url": "/mika-yan/genocide1915/static/js/main.c541bdbb.chunk.js"
+    "revision": "1254dca2bc9b998b3955",
+    "url": "/mika-yan/genocide1915/static/js/main.1b6d2ace.chunk.js"
   },
   {
     "revision": "2f86c5fd30491fb46dc0",

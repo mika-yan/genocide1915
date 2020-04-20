@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mika-yan/genocide1915/static/css/main.981f7211.chunk.css",
-    "main.js": "/mika-yan/genocide1915/static/js/main.c541bdbb.chunk.js",
-    "main.js.map": "/mika-yan/genocide1915/static/js/main.c541bdbb.chunk.js.map",
+    "main.js": "/mika-yan/genocide1915/static/js/main.1b6d2ace.chunk.js",
+    "main.js.map": "/mika-yan/genocide1915/static/js/main.1b6d2ace.chunk.js.map",
     "runtime-main.js": "/mika-yan/genocide1915/static/js/runtime-main.05b66f65.js",
     "runtime-main.js.map": "/mika-yan/genocide1915/static/js/runtime-main.05b66f65.js.map",
     "static/css/2.86df01db.chunk.css": "/mika-yan/genocide1915/static/css/2.86df01db.chunk.css",
     "static/js/2.41ddd236.chunk.js": "/mika-yan/genocide1915/static/js/2.41ddd236.chunk.js",
     "static/js/2.41ddd236.chunk.js.map": "/mika-yan/genocide1915/static/js/2.41ddd236.chunk.js.map",
     "index.html": "/mika-yan/genocide1915/index.html",
-    "precache-manifest.0875f72ac2998b8afad050eea3e71088.js": "/mika-yan/genocide1915/precache-manifest.0875f72ac2998b8afad050eea3e71088.js",
+    "precache-manifest.4bb3438e0a0385b0937f585ecb48ae15.js": "/mika-yan/genocide1915/precache-manifest.4bb3438e0a0385b0937f585ecb48ae15.js",
     "service-worker.js": "/mika-yan/genocide1915/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/mika-yan/genocide1915/static/css/2.86df01db.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/mika-yan/genocide1915/static/css/main.981f7211.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.41ddd236.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.c541bdbb.chunk.js"
+    "static/js/main.1b6d2ace.chunk.js"
   ]
 }
