@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mika-yan/genocide1915/precache-manifest.c13f7e63358a072d00bdfe9f88bf90b6.js"
+  "/mika-yan/genocide1915/precache-manifest.0875f72ac2998b8afad050eea3e71088.js"
 );
 
 self.addEventListener('message', (event) => {
